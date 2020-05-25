@@ -1,0 +1,9 @@
+﻿  2.c
+C:\202005c언어\Project1\0525\2.c(11,12): warning C4098: 'print_arr': 'void' 함수에서 값을 반환하고 있습니다.
+C:\202005c언어\Project1\0525\2.c(16,10): warning C4098: 'print_arr': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다.
+  4 of 5 functions (80.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  0525.vcxproj -> C:\202005c언어\Project1\x64\Release\0525.exe
